@@ -1,19 +1,17 @@
+### Implementation of ML algorithms & techniques:
 
-Content of Machine Learning course & its assignment that I learned while taking this course. 
 
-It contains implementation of below algorithms:
+Classification : <b> Logistic Regression, KNN, Naive Bayes, Decision Tree, SVM, Random Forest </b>
 
-Association Rule Learning: Apriori algorithm ( used for recommendation system)
+Regression: <b> Linear Regression, Multiple Linear Regression, Polynomial REgression, Decision Tree, SVR, Random Forest </b>
 
-Classification : Logistic Regression, KNN, Naive Bayes, Decision Tree, SVM, Random Forest
+Clusttering: <b> Kmeans, Hierarchical , DBScan </b>
 
-Regression: Linear Regression, Multiple Linear Regression, Polynomial REgression, Decision Tree, SVR, Random Forest
+Reinforcement Learning: <b> Random selection, thompson's sampling, upper confidence bound </b>
 
-Clusttering: Kmeans, Hierarchical , DBScan
+Recommendation system : <b> Association Rule Learning (Apriori algorithm) </b>
 
-Reinforcement Learning: random selection, thompson's sampling, upper confidence bound
+Dimensional reduction technique: <b> PCA, Kernel PCA, LDA </b>
 
-Dimensional reduction technique: PCA, Kernel PCA, LDA
-
-Model selection technique: grid search
+Model selection technique: <b> grid search </b>
 
